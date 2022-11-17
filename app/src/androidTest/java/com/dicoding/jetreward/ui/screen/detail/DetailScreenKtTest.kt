@@ -16,7 +16,7 @@ import androidx.compose.ui.test.printToLog
 import com.dicoding.jetreward.R
 import com.dicoding.jetreward.model.OrderReward
 import com.dicoding.jetreward.model.Reward
-import com.dicoding.jetreward.onNodeWithStringId
+import com.dicoding.jetreward.utils.onNodeWithStringId
 import com.dicoding.jetreward.ui.theme.JetRewardTheme
 import org.junit.*
 
